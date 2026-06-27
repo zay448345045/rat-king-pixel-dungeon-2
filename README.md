@@ -1,3 +1,4 @@
+[![Total Downloads](https://img.shields.io/github/downloads/zay448345045/rat-king-pixel-dungeon-2/total?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/zay448345045/rat-king-pixel-dungeon-2/releases)
 # Rat King Pixel Dungeon 2
 
 ![image](https://user-images.githubusercontent.com/7078074/119247071-a6277380-bb3b-11eb-9452-e9f0d8c040d2.png)
